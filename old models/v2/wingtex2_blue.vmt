@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "kerosenn\ultrakill\npc\boss\v2\v2_wings_blue"
+
+	
+	"$phong" "1"
+	"$phongtint" "[0.2 0.4 1]"
+	"$phongexponent" "0.66"
+	"$phongboost" "0.25"	
+	"$phongfresnelranges"	"[1 2 4]"
+	
+	"$nocull" "1"
+	"$selfillum" "1"
+}

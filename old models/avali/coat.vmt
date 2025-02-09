@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	$basetexture "models/avali_definitive/Coat_diff"
+	$surfaceprop Rubber
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.15 0.15 0.15]"
+}

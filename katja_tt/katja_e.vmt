@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	$basetexture "vgui/entities/Katja_E"
+	$vertexcolor 1
+	$vertexalpha 1
+}

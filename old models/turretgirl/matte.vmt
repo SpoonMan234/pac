@@ -1,0 +1,6 @@
+
+VertexLitGeneric
+{
+$baseTexture "models/portalmoe/turretgirl/turret_casing"
+$surfaceprop solidmetal
+}

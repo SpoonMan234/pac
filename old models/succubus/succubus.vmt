@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\mailer\succubus\succubus"
+    "$bumpmap" "models\mailer\succubus\succubus_normal" 
+"$nocull" 1
+	$phong			1
+	$phongexponent		30			
+	$phongboost		4
+	$phongfresnelranges "[.2 .85 30]"
+
+	$rimlight               1
+	$rimlightexponent       10
+	$rimlightboost          10
+
+}
+	

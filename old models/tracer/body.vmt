@@ -1,0 +1,29 @@
+VertexLitGeneric
+{
+	$basetexture "models/overwatch2\tracer/body"
+	$bumpmap "models/overwatch2\tracer/body_n"
+                $color2 "[ 1 1 1]"
+	$surfaceprop Flesh
+
+
+	$selfillum 1
+                $selfillum_envmapmask_alpha "1"
+
+
+	$phong 1
+              "$phongfresnelranges"    "[0.3 0.45 1]"
+	$phongalbedotint 1
+	$phongexponent 1
+	$phongboost 1
+	$phongalbedoboost 1
+                $phongexponenttexture "models/overwatch2\tracer/body_e"
+
+	$rimlight 1
+	$rimlightexponent 1
+	$rimlightboost 1
+	$rimlightmask 1
+
+
+	$rimmask 1
+
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dvic_pm/_16"
+	"$bumpmap" "models/dvic_pm/bump_flat"
+    "$lightwarptexture" "models/dvic_pm/base"
+    "$alphatestreference" .3
+	"$alphatest" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

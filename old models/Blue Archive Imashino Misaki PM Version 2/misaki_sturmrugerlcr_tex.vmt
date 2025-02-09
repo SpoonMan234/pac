@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "tex\misaki\sur\bill/misaki_SturmRugerLCR_tex"
+	$bumpmap "dev/dev_normal"
+	$lightwarptexture "tex\misaki\sur\bill/basewarp"
+	$phong 1
+	$phongboost .02
+	$phongfresnelranges 1 .1 .1
+	"$halflambert" 1
+	"$nocull" 1
+	"$nodecal" 1
+	"$alphatest" 1
+}

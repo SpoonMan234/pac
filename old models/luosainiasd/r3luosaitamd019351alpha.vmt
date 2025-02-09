@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zhanshuang/luosainiasd/R3LuosaitaMd019351Alpha"
+	"$lightwarptexture" "zhanshuang/luosainiasd/basewarp"
+    "$bumpmap" "zhanshuang/luosainiasd/normal/R3LuosaitaMd019351AlphaNM"
+    "$translucent" "1"
+    "$nocull" 1
+	"$nodecal" 1
+	"$envmap" "env_cubemap"
+	"$alpha" "0.1"
+}

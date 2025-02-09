@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/DOOMEternal\weapons\SentinelHammer/sentinel_heavy_hammer"
+"$bumpmap" "models/DOOMEternal\weapons\SentinelHammer/sentinel_heavy_hammer_n"
+
+	"$phong" "1"
+	"$phongboost" "3.5"
+	"$phongexponent" "10"
+	"$phongfresnelranges" "[2 1.2 8]"
+	"$phongalbedotint" "1"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$detail" "models/DOOMEternal\weapons\SentinelHammer/sentinel_heavy_hammer_s"    
+	"$detailscale" "1"        
+	"$detailblendfactor" "0.15"     
+	"$detailblendmode" "1"
+
+
+	"$color2" "[.8 .8 .8]"
+
+	"$phongexponenttexture" "models/DOOMEternal\characters\Marauder\Lumberjack\exponent"
+	"$cloakPassEnabled" 		"1"						
+
+	"$nocull" "1"
+
+
+}

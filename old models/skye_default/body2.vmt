@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/paladins/skye_default/body2"
+	$bumpmap "models/paladins/skye_default/body2_n"
+	$surfaceprop Flesh
+
+	$lightwarptexture "models/paladins/skye_default/toon_c"
+
+	$alphatest 0
+
+
+	$phong 1
+	$phongfresnelranges "[0.05 0.5 1]"
+	$phongalbedotint 1
+	$phongexponent 1
+	$phongboost 0
+	$phongalbedoboost 0
+
+	$rimlight 1
+	$rimlightexponent 5
+	$rimlightboost 2
+	$rimlightmask 1
+
+
+}

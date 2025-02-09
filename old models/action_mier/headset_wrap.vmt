@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/action_mier/headset_wrap_rgb"
+	"$bumpmap"    "models/action_mier/headset_wrap_n"
+
+	
+	"$phongexponenttexture" "models/action_mier/green"
+	$phongexponent 8
+	"$phongalbedotint" 0
+	"$phong" "1"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[1 1.25 3.25]"
+    "$lightwarptexture" 	"models/action_mier/base"
+}

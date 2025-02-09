@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "kokona_shiki/hair"
+	"$bumpmap" "kokona_shiki/T_KokonaShiki_Hair_N"
+        "$lightwarpTexture" "kokona_shiki\basewarp"
+         $translucent 1
+	"$nocull" 1
+	"$nodecal" 1
+}

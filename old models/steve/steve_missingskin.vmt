@@ -1,0 +1,23 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/minecraft/steve/steve_missingskin"
+
+	"$halflambert" "1"
+	"$alphatest" "1"
+
+  	//"$emissiveblendenabled" "1"
+   	//"$emissiveBlendTexture" "dev/null" 
+   	//"$emissiveblendbasetexture" "models/minecraft/steve/steve_eyes"
+   	//"$emissiveBlendFlowTexture" "dev/null"
+  	//"$emissiveBlendTint" "[1 1 1]"
+   	//"$emissiveBlendStrength" "1"
+  	//"$emissiveBlendScrollVector" "[0.0]"
+
+	"$phongexponent" "3"
+	"$phongalbedotint" "1"
+	"$phong" "1"
+	"$phongboost" "0.2"
+	"$phongfresnelranges" "[2 2 2 2]"
+
+	"$model" 1
+}

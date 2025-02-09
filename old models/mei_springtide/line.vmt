@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/black"
+	"$bumpmap" "models/blaze/honkai_impact/mei/mei_springtide/shared/normal"
+
+	//"$nocull" "1"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongexponenttexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/green"
+	"$phongboost" "4.99674475"
+	"$phongfresnelranges" "[0.5 0.5 1.5]"
+	"$phongalbedotint" "1"
+}

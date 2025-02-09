@@ -1,0 +1,17 @@
+"EyeRefract"
+{
+	"$iris"               		"models\survivors\reimu_kouma/eye"
+	"$AmbientOcclTexture" "models\survivors\reimu_kouma/ambient" 
+	"$Envmap"             "Engine/eye-reflection-cubemap-"   		 
+	"$CorneaTexture"      "Engine/eye-cornea"                 	
+	"$EyeballRadius" "0.5"				
+	"$AmbientOcclColor" "[0.1 0.1 0.1]"	
+	"$Dilation" "0.5"				
+	"$ParallaxStrength" "0.30"         
+	"$CorneaBumpStrength" "0.5"	
+	"$NoDecal" "1"
+
+	"$RaytraceSphere" "0"	
+	"$SphereTexkillCombo" "0"
+	"$lightwarptexture" "models\survivors\reimu_kouma/basewarp"
+}

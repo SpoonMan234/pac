@@ -1,0 +1,26 @@
+VertexLitGeneric
+{
+	$basetexture "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_Head_D.vtf"
+	$bumpmap "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_Head_N.vtf"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 0.34
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+	$envmapanisotropy 1
+	$envmapanisotropyscale 0.05
+
+	$phong 1
+	$phongexponenttexture "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_Head_N.vtf"
+	$phongfresnelranges "[0.00 2 3]"
+	$phongboost  0
+
+	$selfillum 1
+	$selfillummask  "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_Head_E.vtf"
+	$selfillummaskscale 1
+
+
+}

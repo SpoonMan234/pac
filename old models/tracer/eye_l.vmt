@@ -1,0 +1,18 @@
+EyeRefract
+{
+$Iris "models/overwatch2\tracer/eye_l" 
+$AmbientOcclTexture "models/overwatch2\tracer/gambler_eye_ao" 
+$Envmap "env_cubemap"
+$CorneaTexture "Engine/eye-cornea" 
+$EyeballRadius "1" 
+$AmbientOcclColor "[.4 .3 .27]" 
+$Dilation ".6" 
+$ParallaxStrength "0.25" 
+$CorneaBumpStrength "1" 
+$halflambert 1
+$nodecal 1
+$ambientocclusion 1
+$glossiness "0.5"
+
+$SphereTexkillCombo 0 
+}

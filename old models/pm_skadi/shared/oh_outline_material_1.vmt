@@ -1,0 +1,41 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "nanchen/vrc/karin/bi/shared/black_1"
+$selfillum 1
+Proxies
+{
+PlayerTeam
+{
+team 5 
+resultVar $proxTeam
+}
+Subtract
+{
+srcVar1 $one
+srcVar2 $proxRange
+resultVar $alpha
+}
+Multiply
+{
+srcVar1 $alpha
+srcVar2 $proxTeam
+resultVar $alpha
+}
+TextureScroll
+{
+texturescrollvar $baseTextureTransform
+texturescrollrate 0.4
+texturescrollangle 120.00
+}
+"Sine"
+		{
+			"resultVar"	"$alpha"
+			"sineperiod"	2
+			"sinemin"	0.3
+			"sinemax"	1
+			"timeoffset"	2220
+		}
+}
+
+"GPU>=2?$phong" 1
+}

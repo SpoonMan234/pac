@@ -1,0 +1,31 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/timbleweebs/anthem_interceptor_timbles/armatt_diffuse"
+	"$bumpmap" "models/timbleweebs/anthem_interceptor_timbles/armatt_normal"
+
+	"$phongexponenttexture" "models/timbleweebs/anthem_interceptor_timbles/armatt_exponent"
+
+	"$color2"	"[0.75 0.8 0.8]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phong" "1"
+	"$phongboost"	"59.9934895"
+
+	"$phongfresnelranges"	"[0.05 0.115 0.945]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[.2 .2 .2]"
+	
+	
+	"$rimlight"               "1"
+	"$rimlightexponent"       "10"
+	"$rimlightboost"          "3"
+}
+
+//	Material using pseudo pbr method 34.2 (Metalness)
+//	Engine branch: Garrys Mod
+//	Hierarchy: Stack 1/5
+//	This vmt affects: Non-metals

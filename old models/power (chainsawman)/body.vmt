@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+    $basetexture "Power2_materials\Body"
+    $lightwarptexture "Power2_materials\lightwarp"
+
+    $rimlight 1
+    $rimlightexponent 50
+    $rimlightboost 1
+
+    $ambientocclusion 0.2
+}

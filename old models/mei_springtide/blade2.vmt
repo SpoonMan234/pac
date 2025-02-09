@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/blaze/honkai_impact/mei/mei_springtide/sword"
+//	"$bumpmap" "models/blaze/honkai_impact/mei/mei_springtide/shared/normal"
+
+	"$ambientocclusion" "0"
+	"$selfillum" "1"
+	"$selfillummask" "models/blaze/honkai_impact/mei/mei_springtide/shared/white"
+	"$selfillumtint" "[2 2 2]"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongexponenttexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/green"	
+	"$phongboost" "20"
+	"$phongfresnelranges" "[0.2 0.5 1.5]"
+	"$phongalbedotint" "1"
+}

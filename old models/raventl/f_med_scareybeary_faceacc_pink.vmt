@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	$basetexture "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_FaceAcc_D.vtf"
+	$bumpmap "models\keepitwilde\ravenTL_materials\T_F_MED_ScareBeary_Pink_FaceAcc_N.vtf"
+	$surfaceprop Metal
+
+	$envmap "env_cubemap"
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 0.34
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1]"
+	$envmapanisotropy 1
+	$envmapanisotropyscale 0.05
+
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2			
+}

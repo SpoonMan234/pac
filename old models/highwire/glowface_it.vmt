@@ -1,0 +1,13 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+                {
+	"$basetexture" "models/texturesLol/highwire/glowface"
+
+                "$detail" "models/texturesLol/highwire/face_glow"
+                "$detailscale" "1"
+                "$detailblendmode" "5"
+                "$detailblendfactor" "0.2" 
+                }
+}

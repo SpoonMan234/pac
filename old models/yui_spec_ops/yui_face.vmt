@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scifi/specops/yui_spec_ops/Head/Yui_Face_BaseColor"
+	"$bumpmap" "models/scifi/specops/yui_spec_ops/Head/Yui_Face_Normal"
+
+	"$alphatest" 1
+
+//	$envmap "env_cubemap"
+//	$envmapmask "models/scifi/specops/yui_spec_ops/Head/Yui_Face_metallic"
+//	$envmaptint "[0.70 0.70 0.70]"
+//	$envmapfresnel 1
+
+	$phong 1
+	$phongexponenttexture "models/scifi/specops/yui_spec_ops/Head/Yui_Face_Roughness"
+	$phongfresnelranges "[0.2 0.5 3]"
+	$phongboost 0.5
+	$phongalbedoboost 170
+
+
+}

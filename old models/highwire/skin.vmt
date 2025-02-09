@@ -1,0 +1,10 @@
+"Vertexlitgeneric"
+{
+	"$basetexture" "models/texturesLol/highwire/skin"
+                "$bumpmap" "models/texturesLol/highwire/body_n"
+
+                "$phong" "1"
+                "$phongexponent" "30"
+                "$phongboost" "0.5"
+                "$phongfresnelranges" "[1 1 1]" 
+}

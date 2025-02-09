@@ -1,0 +1,15 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+                {
+	"$basetexture" "models/texturesLol/highwire/face"
+                "$bumpmap" "models/texturesLol/highwire/face_n"
+
+                "$phong" "1"
+                "$phongexponent" "50"
+                "$phongboost" "0.2"
+                "$phongfresnelranges" "[1 1 1]" 
+                }
+
+}

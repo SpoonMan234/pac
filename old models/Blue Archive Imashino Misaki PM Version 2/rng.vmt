@@ -1,0 +1,108 @@
+"VertexLitGeneric"
+{
+
+$objnumber 	3	
+$objnumberfinal 0
+
+$selected 	0
+"$itemid"   0
+
+$rand 		0
+$randint    0
+$rands      0
+$stock		"0"
+
+$one 		1
+$sf         0.99
+$zero 		0
+
+
+
+$area	0
+$hp 100
+
+$scale 100
+"Proxies"
+{
+    Add
+	    {
+		     srcVar1 "$objnumber"  
+             srcVar2 "$sf"      
+             resultVar "$objnumberfinal"  
+		}
+
+	EntityRandom				
+	{
+		scale 		"$objnumberfinal" 
+		resultVar 		"$rand" 
+	}
+
+	Int
+	{
+	srcVar1         "$rand" 
+	resultVar       "$randint" 
+	}
+	
+    Subtract				
+    {
+ 	srcVar1     	"$randint"
+	srcVar2         "$one"
+    resultVar 		"$rands"    
+    }
+
+	LessOrEqual 			
+    {
+        LessEqualVar 	"$randint"
+        greaterVar 	    "$rands"
+        srcVar1 		"$randint"
+        srcVar2 		"$objnumberfinal"          
+        resultVar 		"$randint"    
+    }
+	
+	Health
+    {
+	   scale       "$scale"
+	   resultVar   "$hp"
+	}
+	  
+	LessOrEqual 			
+    {
+        LessEqualVar 	"$stock"
+        greaterVar 	    "$randint"
+        srcVar1 		"$hp"
+        srcVar2 		"$zero"          
+        resultVar 		"$stock"    
+    }
+	
+
+    Add
+	    {
+		     srcVar1 "$itemid"  
+             srcVar2 "$are"      
+             resultVar "$area"  
+		}
+	LessOrEqual
+	    {
+		     lessEqualVar "$zero"
+             greaterVar "$one"
+             srcVar1 "$area"     
+             srcVar2 "$stock"     
+             resultVar "$selected" 
+		}
+   	LessOrEqual
+	    {
+		     lessEqualVar "$selected"
+             greaterVar "$zero"
+             srcVar1 "$itemid"   
+             srcVar2 "$stock"    
+             resultVar "$selected" 
+		}
+
+	Equals 				
+    {
+          	  	srcVar1         "$selected"
+          	  	resultVar 		"$alpha"    
+    }
+	
+
+}

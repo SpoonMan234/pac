@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/naki/dbxv2/characters/joe_biden/joe_biden/AvatarRightCornea"
+	"$nocull" 1
+}

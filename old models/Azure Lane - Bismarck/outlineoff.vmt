@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "model\bismark\azurlane\clancy\outline"
+	$no_draw 1
+}

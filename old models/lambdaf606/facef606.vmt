@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lambdaf606/facef606"
+"$lightwarptexture" "models/toon"
+}

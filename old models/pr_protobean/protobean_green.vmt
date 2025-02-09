@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/thebigcube/pr_protobean/protobean_green"
+	$nodecal "1"
+}

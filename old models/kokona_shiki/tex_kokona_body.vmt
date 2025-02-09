@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "kokona_shiki/Tex_Kokona_Body"
+        "$lightwarpTexture" "kokona_shiki\basewarp"
+	"$nocull" 1
+	"$nodecal" 1
+}

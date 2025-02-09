@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/drhunter/elise/tooth"
+    	"$bumpmap" "models\drhunter/elise/n"        
+
+    	"$ambientocclusion"     "0"
+	"$nocull" "1"
+   	"$nodecal" "1"
+
+    	"$lightwarptexture" "models/drhunter/elise/toon_main"
+
+    	"$phong" "1"
+    	"$phongboost"    "24"
+    	"$phongalbedotint" "1"
+    	"$phongexponenttexture" "models/drhunter/elise/phong_exp"
+    	"$phongfresnelranges"    "[0 0 1]"
+
+    	"$rimlight"               "1"
+    	"$rimlightexponent"       "3"
+    	"$rimlightboost"          "4"
+}

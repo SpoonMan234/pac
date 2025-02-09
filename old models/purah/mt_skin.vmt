@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/lordcthulhu814/tearsofthekingdom/purah/skin"
+	"$bumpmap" "models/lordcthulhu814/tearsofthekingdom/purah/skin_n"
+	
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0"
+	"$lightwarptexture" "models/lordcthulhu814/tearsofthekingdom/purah/toonshade"
+	"$halflambert" 1
+
+}

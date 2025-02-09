@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$translucent" 1
+    "$basetexture" "models\mailer\succubus\succubus_eyelash"
+	"$halflambert" 1
+	"$nocull" 1
+
+}

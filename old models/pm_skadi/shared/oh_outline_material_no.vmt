@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	$basetexture "nanchen/vrc/karin/bi/shared/white_trans"
+	$alphatest	1
+	$nodecal 1
+
+}

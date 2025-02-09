@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/scifi/specops/yui_spec_ops/Head/Hair_colorBlond"
+	"$bumpmap" "models/scifi/specops/yui_spec_ops/Head/Hair_normal"
+	
+	"$nocull" 1
+	"$alphatest" 1
+	
+//	"$allowalphatocoverage" 1
+	"$alphatestreference" "0.5"
+
+//	$envmap "env_cubemap"
+//	$envmapmask "models/scifi/specops/yui_spec_ops/Head/Yui_Face_metallic"
+//	$envmaptint "[1 1 1]"
+//	$envmapfresnel 1
+
+	"$phong" "1"
+//	"$phongboost" "50.15125"
+	"$phongboost" "0.20"
+	"$phongexponent" "5"
+	"$phongfresnelRanges" "[0.3 0.6 0.9]"
+//	"$phongalbedoTint" "1"
+	"$phongalbedoTint" "0"
+	"$phongdisablehalflambert" "1"
+//	"$normalmapalphaphongmask" "1"
+}

@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\OPM_HNK\Tatsumaki/face"
+	"$model" 1
+	"$nocull" 1
+                  
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost"	"0.01"
+                "$phongalbedotint" "[1 .5 ,4]"
+                "$lightwarptexture" "models\OPM_HNK\Tatsumaki/toon_g"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "0.2"
+	"$rimlightboost"          "4"
+                "$rimmask" "1"	
+}

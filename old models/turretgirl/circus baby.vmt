@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/cbb/Circus Baby"
+
+                  $selfillum "1"
+                  $selfillummask "models/cbb/CircusBabyGlow"
+	  $selfiummtint "100 100 100"
+
+}

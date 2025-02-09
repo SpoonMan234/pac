@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/blaze/honkai_impact/mei/mei_springtide/face"
+	"$bumpmap" "models/blaze/honkai_impact/mei/mei_springtide/shared/normal"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongexponenttexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/green"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[0.5 0.5 1.5]"
+	"$phongalbedotint" "1"
+	"$color2" "[.9 .9 .9]"
+	"$lightwarptexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/hairlw"
+}

@@ -1,0 +1,22 @@
+patch
+{
+	include "materials/models/survivors/survivors_it_shared.vmt"
+	insert
+{
+	"$basetexture" "models\daniao\yuudachi\yuudachi_body_BaseColor"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+	"$alphatestreference" ".99"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongexponent" "1"
+	"$phongfresnelranges"	"[.1 1 1]"
+	"$bumpmap" "models\daniao\yuudachi\yuudachi_body_n"
+	"$lightwarptexture" "models\daniao\yuudachi\toon_all"
+	"$rimlight"               "1"
+	"$rimlightexponent"       "5"
+	"$nocull" "1"
+	"$rimlightboost"          "3"
+}
+}

@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	$basetexture "models/avali_definitive/Feathers_diff"
+	$bumpmap "models/avali_definitive/Feathers_normal"
+	$surfaceprop Flesh
+
+	$phong 1
+	$phongfresnelranges "[0.5 0.75 1]"
+	$phongtint "[1 0.50 0.25]"
+	$phongexponent 5
+
+	$nocull 1
+}

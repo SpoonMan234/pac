@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/action_mier/_01"
+	"$bumpmap" "models/action_mier/bump_flat"
+    "$lightwarptexture" "models/action_mier/base"
+    "$alphatestreference" .3
+	"$alphatest" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

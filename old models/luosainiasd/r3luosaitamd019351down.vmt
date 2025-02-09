@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "zhanshuang/luosainiasd/R3LuosaitaMd019351Down"
+	"$lightwarptexture" "zhanshuang/luosainiasd/basewarp"
+         "$bumpmap" "zhanshuang/luosainiasd/normal/R3LuosaitaMd019351DownNM"
+        "$nocull" 1
+	"$nodecal" 1
+	"$phong" "1"
+	"$phongboost"	".4"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 1 1]"
+	"$PhongExponent" "30"
+	"$halflambert" "1"
+	"$selfillum" "1"  
+	}

@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/arknights/eunectes/pants"
+	"$nocull" 1
+	"$nodecal" 1
+$lightwarptexture "models/arknights/eunectes/basewarp"
+}

@@ -1,0 +1,19 @@
+//"UnlitGeneric"
+"VertexlitGeneric"
+{
+	"$basetexture" "models/blaze/honkai_impact/mei/mei_springtide/arm"
+//	"$bumpmap" "models/blaze/honkai_impact/mei/mei_springtide/shared/normal"
+
+	"$ambientocclusion" "0"
+//	"$additive" "1"
+	"$selfillum" "1"
+	"$selfillummask" "models/blaze/honkai_impact/mei/mei_springtide/shared/white"
+	"$selfillumtint" "[1.2 1.2 1.2]"
+
+	"$phong" "1"
+	"$phongexponent" "14"
+	"$phongexponenttexture" "models/blaze/honkai_impact/mei/mei_springtide/shared/green"
+	"$phongboost" "4.99674475"
+	"$phongfresnelranges" "[0.5 0.5 1.5]"
+	"$phongalbedotint" "1"
+}

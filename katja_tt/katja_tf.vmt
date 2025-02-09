@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "tietu\Katja_TT\TF"
+	//$bumpmap "tietu\Katja_TT\TF_N"
+	//"$translucent" "1"
+	//"$model" "1"
+	//"$nodecal" "1"
+	"$nocull" "1"
+	"$alphatest" 1
+	"$allowalphatocoverage" 1
+	//"$halflambert" "1"
+	
+	"$lightwarptexture" "tietu/Katja_TT/Toon/toon5"
+	
+	"$phong" "1"
+	"$phongboost"	".02"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$phongexponenttexture" "tietu/Katja_TT/phong_exp"
+	
+	"$EmissiveBlendEnabled"				"1"
+	"$EmissiveBlendStrength"			"0.0215" //"0.01"
+	"$EmissiveBlendTexture"				"vgui/white"
+	"$EmissiveBlendFlowTexture"			"vgui/white"
+	"$EmissiveBlendTint"				" [ 1 1 1 ] "
+	"$EmissiveBlendScrollVector"		" [ 0 0 ] "
+	"$EmissiveBlendBaseTexture"		"tietu\Katja_TT\TF"
+	
+	$rimlight               1
+    $rimlightexponent       3
+    $rimlightboost          4
+}

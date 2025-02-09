@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\mailer\succubus\succubus_stocking"
+    "$bumpmap" "models\mailer\succubus\succubus_stocking_normal" 
+
+	"$halflambert"		1
+	"$nocull"		0
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+
+	$phong			1
+	$phongexponent		12		
+	$phongboost		30
+	$phongfresnelranges "[.2 .85 30]"
+
+	$rimlight               1
+	$rimlightexponent       15
+	$rimlightboost          1
+
+}
+
+	"$sss_enable"		1
+	"$sss_mask"			1
+	"$sss_color"		"[1 0 0 1.18]"
+}
+	

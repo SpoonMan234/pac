@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "models/avali_definitive/Iris_diff"
+	$surfaceprop Flesh
+
+	$envmap "env_cubemap"
+	$envmaplightscale 1
+	$envmaplightscaleminmax "[0 1.25]"
+}

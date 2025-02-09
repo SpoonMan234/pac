@@ -1,0 +1,28 @@
+
+"VertexLitGeneric"
+{
+    "$basetexture" "models\mailer\succubus\succubus_upper_01"
+	"$bumpmap"	"models\mailer\succubus\succubus_upper_01_normal"
+
+	"$nocull"		1
+	"$nodecal" 		1
+	"$alphatest" 		0
+	"$translucent" 		0
+	"$halflambert"		0
+
+	$phong			1
+	$phongexponent		30			
+	$phongboost		4
+	$phongfresnelranges "[.2 .85 30]"
+
+	$rimlight               1
+	$rimlightexponent       10
+	$rimlightboost          150
+
+}
+
+}
+	
+	"$surface" "leather"
+
+}
