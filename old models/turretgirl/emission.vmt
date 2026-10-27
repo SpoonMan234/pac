@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-$basetexture "models/portalmoe/turretgirl/turret_eye"
-$surfaceprop metal
-$selfillum 1
-$nodecal 1
-}

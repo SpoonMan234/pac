@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/avali_definitive/Visor Structure_diff"
-
-	$selfillum 1
-	$selfillummask "models/avali_definitive/Visor Structure_Emissive"
-}

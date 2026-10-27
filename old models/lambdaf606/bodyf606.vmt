@@ -1,6 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/lambdaf606/bodyf606"
-"$lightwarptexture" "models/toon"
-"$nocull" 1
-}
