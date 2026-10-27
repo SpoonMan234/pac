@@ -1,0 +1,14 @@
+
+
+patch
+{
+	include	"materials\yexi\tex\20250716\000.vmt"
+	insert
+	{
+		
+	}
+	replace
+	{
+		"$basetexture" "yexi\tex\20250716\Tsukikage_Cloth"
+	}
+}
