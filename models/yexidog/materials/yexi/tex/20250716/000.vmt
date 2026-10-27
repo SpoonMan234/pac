@@ -1,0 +1,19 @@
+
+VertexlitGeneric
+{
+	"$basetexture" "basetexture"
+	
+	//"$bumpmap" "dev/dev_normal"
+	
+	"$lightwarptexture" "yexi\tex\20250716\toon_light"	
+	
+    "$nocull" 1        
+	"$nodecal" 1       
+	
+	"$phong" "1"
+	"$phongalbedotint" "1"                
+	"$halflambert" "1"
+	"$phongboost"	".04"                 
+	"$PhongExponent" "1.0"                
+	"$phongfresnelranges"	"[1 .1 .1]"
+}
